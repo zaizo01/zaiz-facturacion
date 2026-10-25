@@ -1,0 +1,25 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+
+# .NET
+bin/
+obj/
+.vs/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# IDE
+.vscode/
+.idea/
+
+# Local files
+*.user
+*.suo
